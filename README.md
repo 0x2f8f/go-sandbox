@@ -1,1 +1,3 @@
-# go-sandbox
+# Go-sandbox
+
+go run main.go
