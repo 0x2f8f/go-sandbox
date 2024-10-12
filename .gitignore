@@ -27,3 +27,10 @@ go.work.sum
 modules.xml
 vcs.xml
 go-sandbox.iml
+
+.idea
+.idea/*
+
+.vscode
+.vscode/*
+launch.json
